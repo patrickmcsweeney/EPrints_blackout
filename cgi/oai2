@@ -1,0 +1,3 @@
+#!/usr/bin/perl
+
+print "The OAI end point on this repository is switched off.";
